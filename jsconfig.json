@@ -2,4 +2,7 @@
     "conpilerOptions": {
         "strict": true
     },
+    "include": [
+        "src/**/*"
+    ]
 }
