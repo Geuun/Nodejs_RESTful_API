@@ -1,7 +1,5 @@
 // @ts-check
 
-const { rejects } = require('assert');
-const { resolveCaa } = require('dns');
 const http = require('http');
 const { routes } = require('./api');
 
